@@ -2,4 +2,4 @@
 2022.05 @ Nanyang Technological University
 
 ## Content
-1 lab about Nachos Kernel
+1 lab on Nachos Kernel
